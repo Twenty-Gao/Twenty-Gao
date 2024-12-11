@@ -1,6 +1,6 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
-    <p>      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C%20World;欢迎来到这里!&center=true&size=27" />
+    <p>      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C%20World!;欢迎来到这里!&center=true&size=27" />
       </p>
 
   </div>
