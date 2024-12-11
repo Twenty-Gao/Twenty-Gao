@@ -1,4 +1,3 @@
-## Hi there 👋
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="http://yunfei.plus">
