@@ -13,6 +13,11 @@
 ![Metrics](/github-metrics.svg)
 
 ![Twenty_Gao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twenty-Gao)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Twenty-Gao/Twenty-Gao/blob/c6dd04f9e0e49cf65afb41b60b1395f5708a8c16/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Twenty-Gao/Twenty-Gao/blob/c6dd04f9e0e49cf65afb41b60b1395f5708a8c16/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="hhttps://github.com/Twenty-Gao/Twenty-Gao/blob/c6dd04f9e0e49cf65afb41b60b1395f5708a8c16/github-contribution-grid-snake-dark.svg">
+</picture>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twenty-Gao)
 
