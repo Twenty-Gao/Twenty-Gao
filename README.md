@@ -9,8 +9,7 @@
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=Twenty-Gao&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
-  
-![Metrics](/github-metrics.svg)
+  <!-- ![Metrics](/github-metrics.svg)
 
 ![Twenty_Gao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twenty-Gao)
 <picture>
@@ -20,6 +19,7 @@
 </picture>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twenty-Gao)
+-->
 
 <!--
 **Twenty-Gao/Twenty-Gao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
