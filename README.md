@@ -12,7 +12,7 @@
     <img src="https://komarev.com/ghpvc/?username=Twenty_Gao&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
 
-![YunFei's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twenty_Gao)
+![Twenty_Gao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twenty_Gao)
 
 ![snake](./dist/github-contribution-grid-snake.svg)
 <!--
