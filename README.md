@@ -12,6 +12,7 @@
   </div>
 
 ![Twenty_Gao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twenty-Gao)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twenty-Gao)
 
 ![snake](./dist/github-contribution-grid-snake.svg)
