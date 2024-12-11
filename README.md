@@ -9,9 +9,7 @@
   <div>
     <a href="http://yunfei.plus/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
     <!-- visitor -->
-    <img src="https://komarev.com/ghpvc/?username=yunfeidog&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-    <!-- wakatime -->    
-    <a href="https://wakatime.com/@yunfeidog"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
+    <img src="https://komarev.com/ghpvc/?username=Twenty_Gao&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
 
 ![YunFei's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twenty_Gao)
