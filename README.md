@@ -2,14 +2,13 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="http://yunfei.plus">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);祝您今天愉快!&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);欢迎来到这里!&center=true&size=27" />
     </a>
   </div>
 
   <div>
-    <a href="http://yunfei.plus/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
     <!-- visitor -->
-    <img src="https://komarev.com/ghpvc/?username=Twenty_Gao&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+    <img src="https://komarev.com/ghpvc/?username=Twenty-Gao&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
 
 ![Twenty_Gao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twenty-Gao)
